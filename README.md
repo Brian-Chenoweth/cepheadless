@@ -18,7 +18,7 @@ To get started on WP Engine's Platform please follow the docs here [https://deve
 │   ├── archive.js          # For your category/archive templates
 │   ├── front-page.js       # Front page
 │   ├── index.js            # Mapping for available templates
-│   ├── page.js             # Single page
+│   ├── page.js             # Single page test deploy
 │   └── single.js           # Single post or singular
 ├── DEVELOPMENT.md
 ├── faust.config.js
